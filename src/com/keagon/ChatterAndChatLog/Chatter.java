@@ -1,4 +1,4 @@
-package com.casbecker.ChatterAndChatLog;
+package com.keagon.ChatterAndChatLog;
 
 import java.util.ArrayList;
 import java.util.HashMap;

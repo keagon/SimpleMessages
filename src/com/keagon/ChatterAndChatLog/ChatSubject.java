@@ -1,4 +1,4 @@
-package com.casbecker.ChatterAndChatLog;
+package com.keagon.ChatterAndChatLog;
 
 public interface ChatSubject {
 

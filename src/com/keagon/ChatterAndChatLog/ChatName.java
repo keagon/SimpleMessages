@@ -1,4 +1,4 @@
-package com.casbecker.ChatterAndChatLog;
+package com.keagon.ChatterAndChatLog;
 
 public interface ChatName {
     //A common interface used to add titles to the name of a chatter (group chat or others).

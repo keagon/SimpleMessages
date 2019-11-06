@@ -1,7 +1,7 @@
-package com.casbecker.UI;
+package com.keagon.UI;
 
-import com.casbecker.ChatterAndChatLog.Chatter;
-import com.casbecker.ChatterAndChatLog.DefaultChatterFactory;
+import com.keagon.ChatterAndChatLog.Chatter;
+import com.keagon.ChatterAndChatLog.DefaultChatterFactory;
 
 import java.util.Scanner;
 

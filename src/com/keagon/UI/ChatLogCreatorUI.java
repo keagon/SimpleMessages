@@ -1,6 +1,6 @@
-package com.casbecker.UI;
+package com.keagon.UI;
 
-import com.casbecker.ChatterAndChatLog.ChatLog;
+import com.keagon.ChatterAndChatLog.ChatLog;
 
 import java.util.Scanner;
 

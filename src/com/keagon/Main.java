@@ -1,6 +1,6 @@
-package com.casbecker;
+package com.keagon;
 
-import com.casbecker.UI.UserInterface;
+import com.keagon.UI.UserInterface;
 
 public class Main {
 

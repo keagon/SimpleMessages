@@ -1,17 +1,17 @@
-package com.casbecker.ChatterAndChatLog;
+package com.keagon.ChatterAndChatLog;
 
-public class DrChatName implements ChatName{
+public class CaptainChatName implements ChatName{
 
     ChatName chatName;
 
-    public DrChatName(ChatName chatName) {
+    public CaptainChatName(ChatName chatName) {
         this.chatName = chatName;
     }
 
 
     @Override
     public void setChatName(String name) {
-        chatName.setChatName("Dr "+chatName.getChatName());
+        chatName.setChatName("Captain "+chatName.getChatName());
     }
 
     @Override

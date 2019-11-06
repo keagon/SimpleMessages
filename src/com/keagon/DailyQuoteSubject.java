@@ -1,4 +1,4 @@
-package com.casbecker;
+package com.keagon;
 
 public class DailyQuoteSubject {
 }
